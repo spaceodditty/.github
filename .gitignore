@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.tmp
+node_modules/
+
+# hero variant backups (pre-effect snapshots — keep local only)
+*.pre-shadow.png
